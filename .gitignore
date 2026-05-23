@@ -1,0 +1,21 @@
+# deps
+/node_modules
+
+# Next.js
+/.next/
+/out/
+
+# env
+.env
+.env.local
+.env.*.local
+
+# PWA
+/public/sw.js
+/public/workbox-*.js
+
+# misc
+.DS_Store
+*.pem
+/coverage
+/.yarn/
